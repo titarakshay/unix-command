@@ -1,4 +1,4 @@
-# unix-command
+# UNIX -COMMANDS 
 
 ## A simple node application display unix commands from root text file  on browser
 
