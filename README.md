@@ -7,7 +7,7 @@ Real time changes in text file immediatly reflect in screen.
 
 we give any specific N number it display last N number of line from that text file
 
-## To Start Application : npm Start
+### To Start Application : npm start
 
 ### TECH Stack Used in Application
 1. NodeJs/Express
