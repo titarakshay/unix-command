@@ -12,7 +12,7 @@ we give any specific N number it display last N number of line from that text fi
 ### TECH Stack Used in Application
 1. NodeJs/Express
 2. HTML
-3.Socket.io
+3. Socket.io
 4. Bootstrap
 
 
